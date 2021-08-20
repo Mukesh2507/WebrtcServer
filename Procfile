@@ -1,1 +1,1 @@
-web:  /SERVER
+web:  /videocallapp
