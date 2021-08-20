@@ -1,1 +1,1 @@
-web:  /call.js
+web:   
