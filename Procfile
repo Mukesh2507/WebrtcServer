@@ -1,1 +1,1 @@
-web: ./bin/www
+web: call.html
