@@ -1,1 +1,1 @@
-web:  /call.html
+web:  /SERVER
