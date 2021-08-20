@@ -1,1 +1,1 @@
-web:  /videocallapp
+web:  /call.js
