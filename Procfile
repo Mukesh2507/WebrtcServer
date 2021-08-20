@@ -1,1 +1,1 @@
-web: call.html/videocallapp
+web:  /call.html
